@@ -1,0 +1,1 @@
+# Best written in an OOP fashion, this doc records the strategy type, game rules, and those stuff that are not map or game specific

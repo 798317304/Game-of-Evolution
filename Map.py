@@ -1,0 +1,1 @@
+# this program is used to run the game on a specific map
